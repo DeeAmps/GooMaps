@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GooMaps.Android", "GooMaps\GooMaps.Android\GooMaps.Android.csproj", "{0542795F-3C49-4B62-9AB4-611623428AA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GooMaps", "GooMaps\GooMaps\GooMaps.csproj", "{552706BC-4F0F-4BE7-9B6C-5101D601A380}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0542795F-3C49-4B62-9AB4-611623428AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0542795F-3C49-4B62-9AB4-611623428AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0542795F-3C49-4B62-9AB4-611623428AA3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0542795F-3C49-4B62-9AB4-611623428AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0542795F-3C49-4B62-9AB4-611623428AA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0542795F-3C49-4B62-9AB4-611623428AA3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{552706BC-4F0F-4BE7-9B6C-5101D601A380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{552706BC-4F0F-4BE7-9B6C-5101D601A380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{552706BC-4F0F-4BE7-9B6C-5101D601A380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{552706BC-4F0F-4BE7-9B6C-5101D601A380}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24CDE963-0CD6-4C75-B265-377CCFACDF1E}
+	EndGlobalSection
+EndGlobal
